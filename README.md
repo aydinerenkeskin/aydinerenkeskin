@@ -4,7 +4,7 @@
 
   
 
-### <div align="center">Hello, I'm eren. I am interested in iOS development 💻⌨️</div>  
+###About Me 💻⌨️  
   
 
 - 🔭 I’m currently work iOS and iOS technologies  
