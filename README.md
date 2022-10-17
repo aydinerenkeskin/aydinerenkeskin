@@ -1,6 +1,5 @@
 <div align="center">
-<img src="  
-  https://knowtechie.com/wp-content/uploads/2022/04/apple-WWDC22.jpgf" align="center"" />
+<img src="https://knowtechie.com/wp-content/uploads/2022/04/apple-WWDC22.jpg" align="center"" />
 </div>  
 
   
