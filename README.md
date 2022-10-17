@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://miro.medium.com/max/790/1*ZRXQ0XEcVOGp6obR3HkX0A.gif" align="center"" />
+<img src="  
+  https://knowtechie.com/wp-content/uploads/2022/04/apple-WWDC22.jpgf" align="center"" />
 </div>  
+
   
 
 ### <div align="center">Hello, I'm eren. I am interested in iOS development 💻⌨️</div>  
