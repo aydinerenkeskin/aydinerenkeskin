@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://knowtechie.com/wp-content/uploads/2022/04/apple-WWDC22.jpg" align="center"" />
+<img src="https://wallscloud.net/img/resize/3200/2400/MM/2022-06-01-ispazio-" align="center"" />
 </div>  
 
-  
 
 ###About Me 💻⌨️  
   
