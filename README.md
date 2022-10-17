@@ -19,8 +19,7 @@ I love programming and learning new things
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 
 
@@ -55,7 +54,7 @@ I love programming and learning new things
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aydinerenkeskin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=aydinerenkeskin&show_icons=true&count_private=true&hide_border=true" align="center" /> 
 
 <br/>  
 
