@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://wallscloud.net/img/resize/3200/2400/MM/2022-06-01-ispazio-9.jpg" align="center"" />
+
 </div>  
 
 
 ## About Me 💻⌨️  
   
 
-- 🔭 I’m currently work iOS and iOS technologies  
+- 🔭 I’m currently work 
   
 
-- 🌱 I’m currently learning Swift And Design Patterns  
+- 🌱 I’m currently learning   
   
 
 - ⚡ Fun fact: 
