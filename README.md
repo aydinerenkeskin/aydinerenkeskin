@@ -9,7 +9,7 @@
 - 🔭 I’m currently work 
   
 
-- 🌱 I’m currently learning   
+- 🌱 I’m currently learning Swift and iOS development
   
 
 - ⚡ Fun fact: 
