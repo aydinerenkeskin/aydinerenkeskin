@@ -9,7 +9,7 @@
 - 🔭 I’m currently work 
   
 
-- 🌱 I’m currently learning Javascript Technologies
+- 🌱 I’m currently learning 
   
 
 - ⚡ Fun fact: 
